@@ -1,0 +1,481 @@
+#EXTM3U
+
+# =======================================================
+
+# Playlist Name: IPTV
+
+# Playlist ID: DarkShadow
+
+# Playlist Date: 11.04.2019 13:16
+
+# =======================================================
+
+#Free TV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="Free TV", CH5 HD
+
+https://yankee.cdnhispeed.com/xtreme4k/ch5hd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224919NBT.jpg" group-title="Free TV", NBT
+
+https://yankee.cdnhispeed.com/xtreme4k/nbt.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ThaiPBS.svg/768px-ThaiPBS.svg.png" group-title="Free TV", Thai PBS
+
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/201609070051533%20family.jpg" group-title="Free TV", 3 Family
+
+https://yankee.cdnhispeed.com/xtreme4k/ch3family.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160907005854MCOT%20family.jpg" group-title="Free TV", Mcot Family
+
+https://yankee.cdnhispeed.com/xtreme4k/mcotfamily.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224748TNN%2024.jpg" group-title="Free TV", TNN
+
+https://yankee.cdnhispeed.com/xtreme4k/tnn24.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224718NewTV.jpg" group-title="Free TV", New TV
+
+https://yankee.cdnhispeed.com/xtreme4k/newtv.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224638Spring%20News.jpg" group-title="Free TV", Springnews
+
+https://yankee.cdnhispeed.com/xtreme4k/springnews.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224600Voice%20TV.jpg" group-title="Free TV", Voice TV
+
+https://yankee.cdnhispeed.com/xtreme4k/voicetv.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224542Nation.jpg" group-title="Free TV", Nation
+
+https://yankee.cdnhispeed.com/xtreme4k/nationtv.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224524Workpoint%20Creative%20TV.jpg" group-title="Free TV", Workpoint TV
+
+https://yankee.cdnhispeed.com/xtreme4k/workpointhd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160907004756True%204%20You.jpg" group-title="Free TV", True4u
+
+https://yankee.cdnhispeed.com/xtreme4k/true4u.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160907000128gmm%20.jpg" group-title="Free TV", GMM
+
+https://yankee.cdnhispeed.com/xtreme4k/gmmch.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224414NOW.jpg" group-title="Free TV", Now TV
+
+https://yankee.cdnhispeed.com/xtreme4k/now.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160907004816CH%208.jpg" group-title="Free TV", ch8
+
+https://yankee.cdnhispeed.com/xtreme4k/ch8.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Free TV", Mono29
+
+https://yankee.cdnhispeed.com/xtreme4k/mono29hd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160907005614MCOT%20HD.jpg" group-title="Free TV", Mcot HD
+
+https://yankee.cdnhispeed.com/xtreme4k/mcothd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160907005416One%20Channel.jpg" group-title="Free TV", One HD
+
+https://yankee.cdnhispeed.com/xtreme4k/onehd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/250px-Thairath_TV32.png" group-title="Free TV", Thairath HD
+
+https://yankee.cdnhispeed.com/xtreme4k/thairathhd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/1f3fcecb-9fbe-44fe-9e46-61c68ededb56.png" group-title="Free TV", CH3 HD
+
+https://yankee.cdnhispeed.com/xtreme4k/ch3hd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/297/034/000/1439182649-7-o.png" group-title="Free TV", BBTV CH7
+
+https://yankee.cdnhispeed.com/xtreme4k/ch7hd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fwiptv.org/postor/20160906224048PPTV.jpg" group-title="Free TV", PPTV
+
+https://yankee.cdnhispeed.com/xtreme4k/pptv.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+# =======================================================
+
+# NEWS
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-bbcnews.png" group-title="NEWS" ,BBC
+https://yankee.cdnhispeed.com/xtreme4k/bbc.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-cnn.png" group-title="NEWS" ,CNN
+https://yankee.cdnhispeed.com/xtreme4k/cnn.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-cnbc.png" group-title="NEWS" ,CNBC
+https://yankee.cdnhispeed.com/xtreme4k/cnbc.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-bloomberg.png" group-title="NEWS" ,Bloomberg
+https://yankee.cdnhispeed.com/xtreme4k/bloomberg.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-foxnews.png" group-title="NEWS" ,Foxnews
+https://yankee.cdnhispeed.com/xtreme4k/foxnews.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-zeenews.png" group-title="NEWS" ,Zeenews
+https://yankee.cdnhispeed.com/xtreme4k/zeenews.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-nhkworld.png" group-title="NEWS",NHK World
+http://iliketot.dyndns.tv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-france24.png" group-title="NEWS",France 24
+http://iliketot.dyndns.tv/82c764aa2d7f42579348b8717cb5b9a4.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-cctvnews.png" group-title="NEWS",CCTV
+http://iliketot.dyndns.tv/0ed1c715dc864ab3912d4015903a3d85.m3u8?
+# =======================================================
+
+# Cartoons
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Cartoon",Animax
+
+https://yankee.cdnhispeed.com/xtreme4k/animax.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-cartoonito.png" group-title="Cartoon",Cartoonito
+https://yankee.cdnhispeed.com/xtreme4k/cartoonito.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Cartoon",Cartoon Network
+https://yankee.cdnhispeed.com/xtreme4k/cartoonnetwork.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="Cartoon",Disney xd
+https://yankee.cdnhispeed.com/xtreme4k/disneyxd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTYyNDA2MDYxNDIy/disney-channel-logo-16x9jpg.jpg" group-title="Cartoon",Disney
+https://yankee.cdnhispeed.com/xtreme4k/disney.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://exstreamist.com/wp-content/uploads/2017/06/Watch-Disney-Junior-Online.jpg" group-title="Cartoon",Disney Junior
+https://yankee.cdnhispeed.com/xtreme4k/disneyj.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png" group-title="Cartoon",Sparkjump
+https://yankee.cdnhispeed.com/xtreme4k/sparkjump.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-sparkplay.png" group-title="Cartoon",Spark Play
+https://yankee.cdnhispeed.com/xtreme4k/sparkplay.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-discoverykids.png" group-title="Cartoon",Discovery kids
+https://yankee.cdnhispeed.com/xtreme4k/discoverykids.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-cbeebies.png" group-title="Cartoon",Cbeebies
+https://yankee.cdnhispeed.com/xtreme4k/cbeebies.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-boomerang.png" group-title="Cartoon",Boomerang
+http://iliketot.dyndns.tv/06c02432266f4f42b48947e075de38c5.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-cartoonclub.png" group-title="Cartoon",Cartoon Club
+http://iliketot.dyndns.tv/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-nickjr.png" group-title="Cartoon",Nickjr
+http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?
+# =======================================================
+
+# Movies
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbo.png" group-title="Moive" ,HBO HD
+https://yankee.cdnhispeed.com/xtreme4k/hbohd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbosignature.png" group-title="Moive" ,HBO Signature
+https://yankee.cdnhispeed.com/xtreme4k/hbosig.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbohits.png" group-title="Moive" ,HBO Hit
+https://yankee.cdnhispeed.com/xtreme4k/hbohits.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbofamily.png" group-title="Moive" ,HBO Family
+https://yankee.cdnhispeed.com/xtreme4k/hbofam.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-screenred.png" group-title="Moive" ,Red by HBO
+https://yankee.cdnhispeed.com/xtreme4k/red.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-fox.png" group-title="Moive" ,Fox Thai
+https://yankee.cdnhispeed.com/xtreme4k/foxthai.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxpremium.png" group-title="Moive" ,Fox Premium EN
+https://yankee.cdnhispeed.com/xtreme4k/foxpremium.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxpremium.png" group-title="Moive" ,Fox Premium TH
+https://yankee.cdnhispeed.com/xtreme4k/foxpremiumth.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxfamily.png" group-title="Moive" ,Fox Family EN
+https://yankee.cdnhispeed.com/xtreme4k/foxfamily.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxfamily.png" group-title="Moive" ,Fox Family TH
+https://yankee.cdnhispeed.com/xtreme4k/foxfamilyth.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxaction.png" group-title="Moive",Fox Action EN
+http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxaction.png" group-title="Moive",Fox Action TH
+http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8? 
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxcrime.png" group-title="Moive",Fox Crime EN
+http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxcrime.png" group-title="Moive",Fox Crime TH
+http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-fx.png" group-title="Moive",FX HD
+http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-foxlife.png" group-title="Moive",Fox Life
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-kix.png" group-title="Moive",KIX
+http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-thrill.png" group-title="Moive",Thrill
+http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-moviehits.png" group-title="Moive" ,True Movie Hit
+https://yankee.cdnhispeed.com/xtreme4k/moviehit.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-thaifilm.png" group-title="Moive" ,Thai film
+https://yankee.cdnhispeed.com/xtreme4k/thaifilm.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-filmasia.png" group-title="Moive" ,Filmasia
+https://yankee.cdnhispeed.com/xtreme4k/filmasia.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tfilm.png" group-title="Moive" ,True Film
+https://yankee.cdnhispeed.com/xtreme4k/truefilm.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tfilm2.png" group-title="Moive" ,True Film 2
+https://yankee.cdnhispeed.com/xtreme4k/truefilm.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/sd-tvb.jpg" group-title="Moive" ,TVB
+https://yankee.cdnhispeed.com/xtreme4k/tvb.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-asian.png" group-title="Moive" ,Asian HD
+https://yankee.cdnhispeed.com/xtreme4k/asianhd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-asianseries.png" group-title="Moive" ,Asiaseries
+https://yankee.cdnhispeed.com/xtreme4k/asiaseries.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tvn.png" group-title="Moive" ,TVN
+https://yankee.cdnhispeed.com/xtreme4k/tvn.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-axn.png" group-title="Moive" ,AXN HD
+https://yankee.cdnhispeed.com/xtreme4k/axnhd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-cinemax.png" group-title="Moive" ,Cinemax
+https://yankee.cdnhispeed.com/xtreme4k/cinemax.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-amc.png" group-title="Moive" ,AMC
+https://yankee.cdnhispeed.com/xtreme4k/usa-amc.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-warnertv.png" group-title="Moive" ,Warner HD
+https://yankee.cdnhispeed.com/xtreme4k/warnerhd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Moive" ,Sony
+https://yankee.cdnhispeed.com/xtreme4k/sony.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.paramount.com/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="Moive" ,Paramount
+https://yankee.cdnhispeed.com/xtreme4k/paramount.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-lifetime.png" group-title="Moive" ,Lifetime
+https://yankee.cdnhispeed.com/xtreme4k/lifetime.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/sd-zeenung.jpg" group-title="Moive" ,Zeenung
+https://yankee.cdnhispeed.com/xtreme4k/zeenung.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/hd-zeeaction.jpg" group-title="Moive" ,Zee Action
+https://yankee.cdnhispeed.com/xtreme4k/zeeaction.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-starchinese.png" group-title="Moive",Star Chinese HD
+http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-starchineselegend.png" group-title="Moive",Star Chinese Movie
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-ccm.png" group-title="Moive",CCM
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-mchannel.png" group-title="Moive",M Channel
+http://iliketot.dyndns.tv/97f3052bec96482584c5de84dda0d745.m3u8?
+# =======================================================
+
+# Variety
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-antextreme.png" group-title="Variety" ,BlueAntxrteme
+https://yankee.cdnhispeed.com/xtreme4k/antext.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-antentertain.png" group-title="Variety" ,BlueAntEntertain
+https://yankee.cdnhispeed.com/xtreme4k/antent.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-comedycentral.png" group-title="Moive",Comedy Central
+http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-xzyte.png" group-title="Variety" ,True xzyte HD
+https://yankee.cdnhispeed.com/xtreme4k/xzytehd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-inside.png" group-title="Variety" ,True Inside
+https://yankee.cdnhispeed.com/xtreme4k/inside.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-afc.png" group-title="Variety",Asianfood
+https://yankee.cdnhispeed.com/xtreme4k/asianfood.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-food.png" group-title="Variety",Food Network
+https://yankee.cdnhispeed.com/xtreme4k/food.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tmusic.png" group-title="Variety",True Music
+https://yankee.cdnhispeed.com/xtreme4k/truemusic.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-kbs.png" group-title="Variety",KBS
+https://yankee.cdnhispeed.com/xtreme4k/kbs.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-gemtv.png" group-title="Variety",GEM TV
+https://yankee.cdnhispeed.com/xtreme4k/gemtv.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-eve.png" group-title="Variety",EVE
+https://yankee.cdnhispeed.com/xtreme4k/eve.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-reality.png" group-title="Variety",Realrity
+https://yankee.cdnhispeed.com/xtreme4k/real.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-travelthai.png" group-title="Variety",Travel Thai
+https://yankee.cdnhispeed.com/xtreme4k/travel.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-very.png" group-title="Variety",Very
+https://yankee.cdnhispeed.com/xtreme4k/very.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/hd-kmtv.jpg" group-title="Variety",KMTV
+https://yankee.cdnhispeed.com/xtreme4k/kmtv.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/08/MTV-HD.jpg" group-title="Variety" ,MTV HD
+http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-mtv.png" group-title="Variety" ,MTV Asia
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-mtvchina.png" group-title="Variety" ,MTV China
+http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-channelv.png" group-title="Variety" ,Channel V
+http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8?
+#EXTINF:-1 tvg-logo="https://www.omnitv.ca/wp-content/uploads/2013/11/628_arirangkorea.jpg" group-title="Variety" ,Ariang Korean
+http://kodinew.dyndns.tv:9981/stream/channelid/1567362618/chunks.m3u8?
+# =======================================================
+
+# Documentary
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-dmax.png" group-title="Documentary",DMAX
+https://yankee.cdnhispeed.com/xtreme4k/turbo.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-natgeo.png" group-title="Documentary",National geographic
+https://yankee.cdnhispeed.com/xtreme4k/natgeo.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-discovery.png" group-title="Documentary",Discovery
+https://yankee.cdnhispeed.com/xtreme4k/discovery.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-discovery.png" group-title="Documentary",Discovery World
+https://yankee.cdnhispeed.com/xtreme4k/discoveryworld.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-discoveryscience.png" group-title="Documentary",Discovery SCI
+https://yankee.cdnhispeed.com/xtreme4k/discoverysci.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-bbcearth.png" group-title="Documentary",BBC Earth
+https://yankee.cdnhispeed.com/xtreme4k/bbcearth.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-bbclifestyle.png" group-title="Documentary",BBC LifeStyle
+https://yankee.cdnhispeed.com/xtreme4k/bbclifestyle.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/history-hd-png-open-2000.png" group-title="Documentary",History HD
+https://yankee.cdnhispeed.com/xtreme4k/historyhd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentary",History HD 2
+https://yankee.cdnhispeed.com/xtreme4k/h2hd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-expsci.png" group-title="Documentary",Expsci
+https://yankee.cdnhispeed.com/xtreme4k/expsci.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-explife.png" group-title="Documentary",Explife
+https://yankee.cdnhispeed.com/xtreme4k/explore1.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-expwild.png" group-title="Documentary",ExpWild
+https://yankee.cdnhispeed.com/xtreme4k/explore2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="http://www.nextsteptv.com/mysci/wp-content/uploads/2017/09/cropped-mysci.png" group-title="Documentary",Mysci
+https://yankee.cdnhispeed.com/xtreme4k/mysci.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1002441944633565184/95gtLb0K_400x400.jpg" group-title="Documentary",Samrujlok
+https://yankee.cdnhispeed.com/xtreme4k/samrujlok.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Documentary",Animal Show
+https://yankee.cdnhispeed.com/xtreme4k/animalshow.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Documentary",Animal Planet
+https://yankee.cdnhispeed.com/xtreme4k/animalplanet.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-tlc.png" group-title="Documentary",TLC
+https://yankee.cdnhispeed.com/xtreme4k/tlc.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+# =======================================================
+
+# Sports
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/BS1.png" group-title="Sports",BeinSport 1
+https://yankee.cdnhispeed.com/xtreme4k/beinsport.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2017/05/BS2.png" group-title="Sports",BeinSport 2 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/BS3.png" group-title="Sports",BeinSport 3 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport3.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/BS4.png" group-title="Sports",BeinSport 4 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport4.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-bein5.png" group-title="Sports",BeinSport 5 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport5.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-bein6.png" group-title="Sports",BeinSport 6 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport6.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+# =======================================================
+
+# BK
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/BS1.png" group-title="Sports",BeinBK 1 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport1bk.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2017/05/BS2.png" group-title="Sports",BeinBK 2 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport2bk.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/BS3.png" group-title="Sports",BeinBKt 3 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport3bk.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/BS4.png" group-title="Sports",BeinBK 4 
+https://yankee.cdnhispeed.com/xtreme4k/beinsport4bk.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fifa55u.com/images/icon/2sporthd1.png" group-title="Sports",True Sport 1 HD
+https://yankee.cdnhispeed.com/xtreme4k/tsphd1.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fifa55u.com/images/icon/2sporthd2.png" group-title="Sports",True Sport 2 HD
+https://yankee.cdnhispeed.com/xtreme4k/tsphd2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fifa55u.com/images/icon/2sporthd3.png" group-title="Sports",True Sport 3 HD
+https://yankee.cdnhispeed.com/xtreme4k/tsphd3.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fifa55u.com/images/icon/2sporthd4.png" group-title="Sports",True Sport 4 HD
+https://yankee.cdnhispeed.com/xtreme4k/tsphd4.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="http://www.liveballsod.com/api/table/icon/TrueSport2.png" group-title="Sports",True Sport 2
+https://yankee.cdnhispeed.com/xtreme4k/tsp2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="http://www.liveballsod.com/api/table/icon/TrueSport5.png" group-title="Sports",True Sport 5 
+https://yankee.cdnhispeed.com/xtreme4k/tsp5.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="http://www.liveballsod.com/api/table/icon/TrueSport6.png" group-title="Sports",True Sport 6 
+https://yankee.cdnhispeed.com/xtreme4k/tsp6.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="http://www.liveballsod.com/api/table/icon/TrueSport7.png" group-title="Sports",True Sport 7 
+https://yankee.cdnhispeed.com/xtreme4k/tsp7.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-tsport.png" group-title=""World Sport" ,T-Sport
+http://iliketot.dyndns.tv/3ee1e656d6ae417a914743328d44f20f.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-smmtv.png" group-title=""World Sport" ,SMM
+http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-nba.png" group-title="Sports",NBA
+https://yankee.cdnhispeed.com/xtreme4k/nba.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-golf.png" group-title="Sports",GOLF HD
+https://yankee.cdnhispeed.com/xtreme4k/golfhd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-golfplus.png" group-title="Sports",GOLF Plus
+https://yankee.cdnhispeed.com/xtreme4k/golfplus.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tennis.png" group-title="Sports",Tennis HD
+https://yankee.cdnhispeed.com/xtreme4k/tennishd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-wwe.png" group-title="Sports",WWE HD
+https://yankee.cdnhispeed.com/xtreme4k/wwe.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fifa55u.com/api/table/icon/ch045.png" group-title="Sports",Foxsport HD 
+https://yankee.cdnhispeed.com/xtreme4k/foxsporthd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fifa55u.com/images/icon/FOXSports2.png" group-title="Sports",FOX SPORTS 2 
+https://yankee.cdnhispeed.com/xtreme4k/foxsport2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://www.fifa55u.com/images/icon/FOXSports3.png" group-title="Sports",FOX SPORTS 3
+https://yankee.cdnhispeed.com/xtreme4k/foxsport3.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvgkee.cdnhispeed.com/xtreme4k/espn.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-fightsports.png" group-title="Sports",Fightsport
+https://yankee.cdnhispeed.com/xtreme4k/fightsport.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title=""World Sport",Outdoor
+https://yankee.cdnhispeed.com/xtreme4k/outdoor.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+# =======================================================
+
+# World Sport
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-btsport1.png" group-title="World Sport",BT Sports 1
+https://yankee.cdnhispeed.com/xtreme4k/uk-btsport1.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-btsport2.png" group-title="World Sport",BT Sports 2
+https://yankee.cdnhispeed.com/xtreme4k/uk-btsport2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-btsporteurope.png" group-title="World Sport",BT Sports 3
+https://yankee.cdnhispeed.com/xtreme4k/uk-btsport3.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-btsportespn.png" group-title="World Sport",BT Sport espn
+https://yankee.cdnhispeed.com/xtreme4k/uk-btsportespn.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-mutv.png" group-title="World Sport",MU TV
+https://yankee.cdnhispeed.com/xtreme4k/uk-mutv.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-liverpool.png" group-title="World Sport",Liverpool TV
+https://yankee.cdnhispeed.com/xtreme4k/uk-liverpool.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-chelseatv.png" group-title="World Sport",Chelsea FC
+https://yankee.cdnhispeed.com/xtreme4k/uk-chelseafc.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-racinguk.png" group-title="World Sport" ,Racing UK
+https://yankee.cdnhispeed.com/xtreme4k/uk-racinguk.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/it-motorgp.png" group-title="World Sport" ,Moto GP
+https://yankee.cdnhispeed.com/xtreme4k/it-motogp.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-dubairacing.png" group-title="World Sport" ,Dubai-racing
+https://yankee.cdnhispeed.com/xtreme4k/dubai-racing.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-attheraces.png" group-title="World Sport" ,AT theraces
+https://yankee.cdnhispeed.com/xtreme4k/uk-attheraces.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-boxnation.png" group-title="World Sport" ,Boxnation
+https://yankee.cdnhispeed.com/xtreme4k/uk-boxnation.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/it-supertennis.png" group-title="World Sport" ,Supertennis
+https://yankee.cdnhispeed.com/xtreme4k/it-supertennis.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/bein1france.png" group-title="World Sport",Bein 1 france
+https://yankee.cdnhispeed.com/xtreme4k/bein1france.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/bein2france.png" group-title="World Sport",Bein 2 france
+https://yankee.cdnhispeed.com/xtreme4k/bein2france.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/usa-nbcsn.png" group-title="World Sport",NBCSN
+https://yankee.cdnhispeed.com/xtreme4k/usa-nbcsn.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/usa-nfl.png" group-title="World Sport",NFL USA
+https://yankee.cdnhispeed.com/xtreme4k/usa-nfl.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/usa-pac12.png" group-title="World Sport",PAG USA
+https://yankee.cdnhispeed.com/xtreme4k/usa-pag.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-skynethd.png" group-title="World Sport" ,Sky Net HD
+https://yankee.cdnhispeed.com/xtreme4k/skysporthd.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet1.png" group-title="World Sport" ,Sky Net 1 HD
+https://yankee.cdnhispeed.com/xtreme4k/skysport1.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet2.png" group-title="World Sport" ,Sky Net 2 HD
+https://yankee.cdnhispeed.com/xtreme4k/skysport2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet3.png" group-title="World Sport" ,Sky Net 3 HD
+https://yankee.cdnhispeed.com/xtreme4k/skysport3.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet4.png" group-title="World Sport" ,Sky Net 4 HD
+https://yankee.cdnhispeed.com/xtreme4k/skysport4.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet5.png" group-title="World Sport" ,Sky Net 5 HD
+https://yankee.cdnhispeed.com/xtreme4k/skysport5.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet6.png" group-title="World Sport" ,Sky Net 6 HD
+https://yankee.cdnhispeed.com/xtreme4k/skysport6.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-eurosport1.png" group-title="World Sport" ,Euro Sport 1
+https://yankee.cdnhispeed.com/xtreme4k/eurosport.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-eurosport2.png" group-title="World Sport" ,Euro Sport 2
+https://yankee.cdnhispeed.com/xtreme4k/uk-eurosport2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/usa-golf.png" group-title="World Sport" ,GOLF USA
+https://yankee.cdnhispeed.com/xtreme4k/usa-golf.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysports1.png" group-title="World Sport" ,Sky Sports 1
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysports1.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysports2.png" group-title="World Sport" ,Sky Sports 2
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysports2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysports3.png" group-title="World Sport" ,Sky Sports 3
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysports3.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysports4.png" group-title="World Sport" ,Sky Sports 4
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysports4.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysports5.png" group-title="World Sport" ,Sky Sports 5
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysports5.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysportsf1.png" group-title="World Sport" ,Sky Sports F1
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysportsf1.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysportsarena.png" group-title="World Sport" ,Sky Sports Arena
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysportsarena.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysportsfoot.png" group-title="World Sport" ,Sky Sports Football
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysportsfoot.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysportsmix.png" group-title="World Sport" ,Sky Sports MIX
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysportsmix.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-skysportsnews.png" group-title="World Sport" ,Sky Sports News
+https://yankee.cdnhispeed.com/xtreme4k/uk-skysportsnews.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-sporttv1.png" group-title="World Sport" ,Sports TV 1
+https://yankee.cdnhispeed.com/xtreme4k/sporttv1.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-sporttv2.png" group-title="World Sport" ,Sports TV 2
+https://yankee.cdnhispeed.com/xtreme4k/sporttv2.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-sporttv3.png" group-title="World Sport" ,Sports TV 3
+https://yankee.cdnhispeed.com/xtreme4k/sporttv3.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-sporttv4.png" group-title="World Sport" ,Sports TV 4
+https://yankee.cdnhispeed.com/xtreme4k/sporttv4.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-sporttv5.png" group-title="World Sport" ,Sports TV 5
+https://yankee.cdnhispeed.com/xtreme4k/sporttv5.stream/chunks.m3u8?nimblesessionid=47080691&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDE5IDY6MTU6MTggQU0maGFzaF92YWx1ZT1wZys2UE4zVGpZeTdvZEpTYkd0bkJnPT0mdmFsaWRtaW51dGVzPTImaWQ9Z29sZjEyMzQ1fDc2My1jaDdoZC5zdHJlYW18eHRyZW1lLTJ8MTU1NDk2MzMxOHwxMjIuMC4yLjIwM3wy
+# =======================================================
